@@ -1,0 +1,64 @@
+* {
+margin: 0;
+padding 0;
+box-sizing: border-box;
+
+}
+body {
+    background-color: rgb(240, 157, 198);
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#topo {
+    background-color:rgb(241, 181, 204);
+    color: rgb(0, 0, 0);
+    height: 130px;
+    text-align: center;
+}
+
+#meio {
+    height: 500px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+
+#rodape {
+    height: 500px;
+    background-color: rgb(235, 154, 188);
+    color: rgb(23, 255, 23);
+    text-align: center;
+}
+
+
+
+#meio div{
+    width: 150px;
+    background-color: rgba(187, 26, 106, 0.884);
+    display: inline-block;
+    height: 250px;
+    margin: 10px 20px 10px 20px; 
+}
+
+img {
+  width: 100%;
+  height: 100%;
+}
+
+li {
+  display: inline-block;
+  width: 100px;
+  padding: 10px;
+}
+
+li a {
+  font-size: 16px;
+  text-decoration: none;
+  color:rgb(255, 255, 255)
+}
+
+#navegacao {
+    background-color: rgb(185, 27, 127);
+    border-radius: 7px;
+}
